@@ -5,4 +5,4 @@ UseState, hooks, conditional change
 
 # Sample
 
-![picture](/screenshot/travel.png)
+![picture](/screenshot/flashcard.png)
